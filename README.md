@@ -31,3 +31,4 @@ Through this project, I deepened my understanding of:
 I am passionate about data analytics and always eager to learn new techniques and tools to improve my skills. This project reflects my journey in mastering data manipulation with Pandas.
 
 Connect with me on LinkedIn to discuss data analytics and explore potential collaborations!
+LinkedIn Profile: https://www.linkedin.com/in/miguelct89/
